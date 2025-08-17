@@ -1,0 +1,39 @@
+.merry{
+    color:brown
+}
+.text{
+    color:blueviolet;
+    background: lightcoral;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration: line-through;
+}
+
+.kalki{
+    background: brown;
+    width: 350;
+    height: 50px;
+    color: #fff;
+}
+.bujji{
+    background: brown;
+    height: 100px;
+    width:100px;
+}
+.icon{
+    color:red;
+}
+.opc1{
+    .opc1 {
+        display: inline;
+        background: yellow;
+        opacity: 0.3;
+}
+.opc2{
+    background: green;
+    width: 200px;
+    opacity: 0.4
+    
+
+}
