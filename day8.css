@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bd1{
+    background: violet;
+    height: 100%
+    
+   
+}
+.bd2{
+    background-image: url('pictures/bog.jpeg');
+    height: 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 45%;
+    position: relative;
+    margin-left: 674px;
+    top: 209px;
+    height: 70%;
+}
+
+.form{
+
+        background: pink;
+        height: 60%;
+        width: 50%;
+        margin-left: 256px;
+        position: relative;
+        top: 146px;
+}
+.f1{
+    margin-left: 47px;
+    text-transform: capitalize;
+}
+.f1 h1{
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+.f1 input{
+    height: 30px;
+    width: 434px;
+    margin-bottom: 20px;
+}
+.f1 label{
+    font-size: 20px;
+}
+.checkbox{
+display: flex;
+
+}
+.checkbox b{
+    margin-left: 10px;
+    margin-top:5px
+
+
+}
+.checkbox input{
+    width:30px;
+    background:blue;
+}
+.lines{
+
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.lines h3{
+    position: relative;
+    bottom: 17px;
+    font-size: 20px;
+    border: solid 1px;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.line{
+    border: solid 1px;
+    width:185px;
+    height: 0px;
+}
+.fa-facebook-f{
+    border: solid red;
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 20px;
+    width: 27px;
+    text-align: center;
+    margin-left: 155px;
+      margin-right: 10px;
+  }
+  .fa-google{
+    border: solid blue;
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 20px;
+    margin-right: 10px;
+  
+  }
+  .fa-linkedin-in{
+    border: solid violet;
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 20px;
+  }
+  .form span{
+    text-align: center;
+    margin-left: 15px;
+    text-transform: capitalize;
+    line-height: 40px;
+    display:block
+  }
+  .form a{
+  text-transform: capitalize;
+  color: #666;
+  }
