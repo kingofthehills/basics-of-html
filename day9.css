@@ -1,0 +1,186 @@
+*{
+    padding: 0px;
+    margin: 00px;
+}
+
+.top{
+    background: rgb(28, 238, 5);
+    height: 200px;
+    display: flex;
+    
+
+}
+.left{
+    
+    height: 167px;
+    width: 368px;
+    text-transform: capitalize;
+    margin-left:30px;
+
+}
+.left h1{
+    padding-bottom: 20px;
+    padding-top: 15px;
+
+}
+.left h3{
+    padding-bottom: 15px;
+
+}
+
+.mid{
+    margin-left: 365px;
+    margin-top: 64px;
+
+}
+.mid input{
+    text-transform: capitalize;
+    height: 35px;
+    width: 278px
+
+}
+.mid button{
+
+    text-transform: capitalize;
+    height: 35px;
+    /* margin-right: -31px; */
+    width: 31px;
+    background: darkgreen;
+    color: white;
+    margin-left: -14px;
+
+
+}
+.right {
+    margin-left: 439px;
+    margin-top: 28px;
+    text-transform: capitalize;
+
+}
+.right h1{
+    padding-bottom: 20px;
+}
+.right i{
+
+        font-size: 25px;
+        padding: 10px;
+}
+.footer{
+    display: flex;
+    background: rgb(14, 108, 47);
+    height: 90%;
+
+}
+.c1{
+    
+    height: 300px;
+    width: 188px;
+    margin-top: 45px;
+    margin-left: 50px;
+
+}
+.c1 a{
+    text-transform: capitalize;
+    display: block;
+    padding-bottom: 30px;
+    text-decoration: none;
+    color: yellow;
+
+}
+.c2{
+    
+    height: 300px;
+    width: 188px;
+    margin-top: 45px;
+    margin-left: 50px;
+
+
+}
+.c2 a{
+    text-transform: capitalize;
+    display: block;
+    padding-bottom: 30px;
+    text-decoration: none;
+    color: yellow;
+
+}
+.c3{
+    
+    height: 300px;
+    width: 188px;
+    margin-top: 45px;
+    margin-left: 90px;
+
+}
+.c3 a{
+    text-transform: capitalize;
+    display: block;
+    padding-bottom: 30px;
+    text-decoration: none;
+    color: yellow;
+
+}
+.c4{
+    
+    height: 300px;
+    width: 188px;
+    margin-top: 45px;
+    margin-left: 215px;
+
+}
+.c4 h1{
+    padding-bottom: 15px;
+    color: white;
+    font-size: 25px;
+
+}
+.c4 h3{
+    color: rgb(28, 238, 5);
+
+}
+.c4 a{
+    text-decoration: none;
+    color: yellow;
+
+}
+.c5{
+    
+    width: 230px;
+    margin-top: 45px;
+    margin-left: 425px;
+    border: 3px solid red;
+    height: 220px;
+
+
+}
+.c5 h1{
+    padding-bottom: 15px;
+    color: white;
+    font-size: 25px;
+
+}
+.c5 p{
+    color: rgb(28, 238, 5);
+
+}
+.c5 a{
+    text-decoration: none;
+    color: yellow;
+}
+.r1{
+    background: rgb(14, 108, 47);
+    margin-top: 407px;
+    margin-left: -1764px;
+}
+.r1 h4{
+    display: inline;
+    margin-left: 20px;
+    color: rgb(28, 238, 5);
+}
+.r1 a{
+    color: rgb(28, 238, 5);
+    padding-left: 10px;
+    
+    margin-left: 142px;
+    border-left: 3px solid black;
+}
