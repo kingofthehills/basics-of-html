@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    background: yellow;
+    height: 100%
+
+}
+
+.submain
+{
+    background: orangered;
+    height: 80%;
+    width: 60%;
+    position: relative;
+    top: 100px;
+    left: 452px;}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: capitalize;
+    height: 100px;
+    background: whitesmoke;
+}
+
+.navbar h1{
+    font-size: 25px;
+    color: aqua;
+
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+
+}
+.navbar button{
+    padding: 10px;
+    margin-top: 6px;
+    border: 2px solid blue;
+    border-radius: 74px;
+    background: blue;
+    color: white;
+}
+.right{
+    margin-left: 109px;
+    margin-top: 43px;
+    background: beige;
+    width: 130px;
+    height: 25px;
+    border: 3px solid beige;
+    border-radius: 10px;
+    color: brown;
+
+}
+.right h5{
+    margin-top: 3px;
+    
+
+}
+.right i{
+    padding-left: 10px;
+}
+.r1{
+    margin-top: 75px;
+    margin-left: 100px;
+    width: 335px;
+    height: 236px;
+
+    text-transform: capitalize;
+    color: whitesmoke;
+
+}
+.r1 h1{
+    font-size: 50px;
+
+}
+.r1 p{
+    margin-top: 25px;
+
+}
+.r2{
+    margin-left: 95px;
+    display: flex;
+    margin-top: 150px;
+    width: 405px;
+    height: 40px;
+    border: 3px solid violet;
+    text-align: center;
+    padding: 10px;
+    border-radius: 30px;
+    background: violet;
+    
+}
+.l1{
+    margin-left: 20px;
+    color: blue;
+    font-size: 27px;
+}
+.b1 {
+    margin-left: 15px;
+    margin-right: 20px;
+    border-right: 2px solid black;
+    padding-right: 15px;
+    text-transform: capitalize;
+
+}
+
+.l2{
+    color: blue;
+    font-size: 27px;
+    margin-right: 15px;
+}
+.l3{
+    margin-left: 15px;
+    border: 2px solid yellow;
+    border-radius: 30px;
+    color: orangered;
+    background: yellow;
+}
+.l3 i{
+    text-align: center;
+    margin-top: 4px;
+    padding: 5px;
+
+}
+.avtar{
+
+    margin-left: 603px;
+    margin-top: -503px;
+}
+
+.avtar img{
+    height: 400px;
+    border: 10px solid violet;
+    background: violet;
+    border-radius: 258px;
+}
+.small{ 
+    height: 78px;
+    width: 72px;
+    background: linear-gradient(45deg,blue,red);
+    border: 2px solid linear-gradient(45deg,blue,red);
+    border-radius: 124px;
+    margin-left: 610px;
+    margin-top: -119px;
+    position: relative;
+
+}
+.small img{
+    height: 70px;
+    margin-top: 12px;
+}
+.box1{   height: 125px;
+    width: 175px;
+    background: blue;
+    text-align: center;
+    border: 3px;
+    border-radius: 8px;
+    margin-left: 922px;
+    margin-top: -173px;
+    position: relative;
+
+}
+.box1 i{
+    margin-left: 140px;
+    margin-top: 6px;
+    color: red;
+
+}
+.pf{
+    display: flex;
+    margin-left: 16px;
+    margin-top: 8px;
+
+}
+
+
+.s1 img{
+    height: 35px;
+    background: red;
+    border: 2px;
+    border-radius: 20px;
+    margin-left: 8px;
+
+}
+.b4{
+    background: radial-gradient(silver,transparent);
+    height: 48px;
+    width: 50px;
+    border: 3px;
+    border-radius: 50px;
+    margin-top: -310px;
+}
+
+
+.b4 img{
+    height: 35px;
+    margin-top: 8px;
+}
+
