@@ -1,0 +1,187 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+    background: #86b40d;
+    height: 100%;
+
+}
+.sub{
+    position: relative;
+    background: beige;
+    height: 85%;
+    width: 80%;
+    margin-left: 256px;
+    top: 112px;
+    
+}
+.nav{
+    display: flex;
+    top: 35px;
+    align-items: center;
+
+}
+.nav b{
+    border-bottom: 3px solid red;
+    padding: 5px;
+}
+.nav h1{
+    color: darkgreen;
+    margin-left: 60px;
+    margin-right: 230px;
+    margin-top: 20px;
+}
+
+
+.nav a{
+    margin-top: 20px;
+    margin-left: 25px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 3px solid olive;
+
+
+}
+.icons{
+    margin-left: 200px;
+    margin-top: 20px;
+    
+}
+.icons i{
+    padding-left: 15px;
+}
+.left i{
+    margin-left: 95px;
+    margin-top: 100px;
+    display: block;
+    font-size: 177px;
+    color: green;
+
+}
+.l1{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.l1 b{
+
+   
+    text-transform: capitalize;
+}
+.l1 h1{
+    font-size: 65px;
+
+}
+.l1 h2{
+    margin-top: -5px;
+    font-size: 60;
+    color: green;
+
+}
+.l2{
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.l2 h3{
+    
+    background: rgb(203, 90, 9);
+    height: 30px;
+    width: 400px;
+}
+.l2 h4{
+    position: relative;
+    top: -10px;
+    background: aqua;
+    height: 30px;
+    width: 350px;
+}
+.l2 h5{
+    position: relative;
+    top: -15px;
+    background: yellow;
+    height: 30px;
+    width: 300px;
+}
+.l2 b{
+    position: relative;
+    top: -20px;
+    background: brown;
+    height: 30px;
+    width: 270px;
+
+}
+.mid1{
+    background: #86b40d;
+    height: 250px;
+    width: 250px;
+    margin-top: -440px;
+    margin-left: 570px;
+}
+
+.mid2 img{
+    height: 250px;
+    width: 250px;
+    margin-top: -375px;
+    margin-left: 716px;
+}
+
+.r1{
+    margin-left: 1087px;
+    height: 300px;
+    width: 300px;
+    color: black;
+    text-transform: capitalize;
+    margin-top: -250px;
+}
+
+.r1 h1{
+    margin-bottom: 30px;
+
+}
+.r1 b{
+    text-decoration: underline;
+    margin-left: 5px;
+
+
+}
+.r1 p{
+    margin-bottom: 15px;
+
+}
+.r1 h3{
+    margin-right: 10px;
+
+}
+.m{
+    margin-left: 569px;
+    margin-top: -46px;
+    text-decoration: underline;
+    color: aqua;
+}
+.vid{
+    margin-left: 1070px;
+    height: 150;
+    width: 150px;
+}
+.v1{
+    height: 150px;
+    width: 200px;
+    padding-right: 100px;
+    background:white;
+    margin-left: 1234px;
+    margin-top: -153px;
+}
+    .line{
+        border: 2px solid black;
+        height: 0px;
+        width: 150px;
+        border-radius: 5px;
+        margin-left: 164px;
+    
+        position: relative;
+        top: 368px;
+    }
