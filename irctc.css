@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.top{
+    
+        background: white;
+        height: 90px;
+        padding: 20px;
+
+}
+
+.l1{float: left
+}
+
+.l1 img{
+    margin-left:100px;
+    margin-top: 10px;
+}
+
+.nav1{margin-left: 600px;
+
+
+}
+.nav1 a{
+    padding-left: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+
+}
+.nav1 button{
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    border: none
+
+}
+.nav1 p{
+    display: inline;
+    color: red;
+    font-size: 20px;
+    
+}
+.nav1 pre{
+    display: inline;
+    text-transform: capitalize;
+    background-color: rgb(218, 194, 194);
+    padding: 3px;
+}
+
+.nav2{float: left;
+    margin-left: 350px;
+    line-height: 4;
+
+
+}
+
+.nav2 a{
+    padding-left: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;      
+}
+.nav2 button{
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    border: none
+}
+.nav2 p{
+    display: inline;
+    color: red;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+.nav2 b{
+    display: inline;
+    text-transform: capitalize;
+    border-bottom:5px solid red;
+    padding-bottom:3px;
+    animation: blink 1s infinite;
+}
+.l2 img{
+    margin-left:200px;
+    margin-top:-10px
+
+}
+
+top2{
+
+}
+.bg{
+    background-image: url('pictures/train.jpeg');
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+
+}
