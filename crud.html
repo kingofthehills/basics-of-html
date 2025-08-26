@@ -1,0 +1,49 @@
+<link rel="stylesheet" href="crud.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<div  class="block">
+<h1><i>Crud Application</i></h1>
+<input type="text" placeholder="search brand"class="form form_control w-25 mt-4 hidden" id="searchvalue">
+<form id="addcarform" >
+    <legend>add a car</legend>
+    <input type="text" placeholder="enter brand"class=" form form_control w-25 mt-4 d-block  ms-3 " id="inpbrand">
+    <input type="text" placeholder="place imagge" class="form form_control w-25 mt-4  ms-3 d-block" id="inpimage">
+    <input type="text" placeholder="price"class="form form_control w-25 mt-4  d-block ms-3" id="inpprice">
+    <input type="text" placeholder="qty" class="form form_control w-25 mt-4  d-block ms-3" id="inpqty">
+    <button class="btn btn-primary w-10 mt-3 ms-4">submit</button>
+</form>
+<form id="editcarform" >
+    <legend>edit a car</legend>
+    <input type="text" placeholder="enter id"class=" form form_control w-25 mt-4 d-block  ms-3 " id="editid">
+    <input type="text" placeholder="enter brand"class=" form form_control w-25 mt-4 d-block  ms-3 " id="editbrand">
+    <input type="text" placeholder="place imagge" class="form form_control w-25 mt-4  ms-3 d-block" id="editimage">
+    <input type="text" placeholder="price"class="form form_control w-25 mt-4  d-block ms-3" id="editprice">
+    <input type="text" placeholder="qty" class="form form_control w-25 mt-4  d-block ms-3" id="editqty">
+    <button class="btn btn-primary w-10 mt-3 ms-4">submit</button>
+</form>
+</div>
+
+<table class="table  table-hover text-center table-striped">
+    <thead>
+        <tr>
+            <th>s:no</th>
+            <th>brand</th>
+            <th>image</th>
+            <th>qty</th>
+            <th>price</th>
+            <th>total</th>
+            <th>delete</th>
+            <th>edit</th>
+        </tr>
+    </thead>
+    <tbody id="root"> </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4"></td>
+            <td>GRANDTOTAL</td>
+            <td id="grandtotal">&#8377 <b>5000</b></td>
+        </tr>
+    </tfoot>
+</table>
+<script src="crud.js"></script>
+
+
