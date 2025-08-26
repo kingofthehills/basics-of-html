@@ -1,0 +1,105 @@
+*{
+    margin:0px;
+    padding:0px
+}
+ 
+.main{
+    background: lawngreen;
+    height:100%
+}
+.sub{
+     position: relative;
+    padding-top: 130px;
+    
+}
+.sub input{
+    height: 30px;
+    width: 200px;
+
+}
+.sub button{
+    background: yellow;
+    height: 30;
+    width: 30px;
+    margin-left: -3px;
+    border: none;
+    border-radius: 5px;
+
+} 
+.bgimage{
+    background-image:url('pictures/netflix.jpeg');
+    background-position:center;
+    background-repeat:no-repeat;
+    height:100%;
+    background-size:cover;
+
+
+}
+
+.submaa{
+    display: flex;
+
+}
+.logo img{
+    width: 150px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.login{margin-left: 1250px;
+    margin-top: 50px;
+}
+.login select{
+    height: 40px;
+    background :black;
+    color:white;
+    width: 100px;
+}
+.login button{
+    background: red;
+    margin-left: 3px;
+    border: none;
+    border-radius: 2px; 
+    padding: 10px;
+}
+.login button a{
+    text-decoration: none;
+    color:white;
+}
+.bgimage h1{
+    color:white;
+    text-align:center;
+    font-size: 55px;
+    margin-top: 190px;
+}
+.bgimage h3{
+    color:white;
+    text-align:center;
+    font-size: 30px;
+
+}
+.bgimage h4{
+    color:white;
+    text-align:center;
+    font-size: 20px;
+
+}
+.bgimage input{
+    height: 50;
+    text-align: center;
+    margin-left: 650px;
+    width: 330px;
+    background: black;
+    border: none;
+}
+.bgimage button{
+    height: 50;
+    background:red;
+    width: 120;
+    border: none;
+    color:white;
+    font-size: 18px;
+
+
+}
