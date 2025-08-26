@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{background-color: rgba(26, 181, 233, 0.835);
+    height: 200px
+}
+.logo
+{    
+    float: left;
+    margin-left: 100px;
+
+}
+.nav_bar{
+    float:left;
+    margin-top:100px;
+
+}
+.nav_bar a{
+    text-decoration: none;
+    color: red;
+    padding-left:250px;
+    float:left;
+
+}
+
+.login button{
+    margin-left: 150px;
+    background: blue;
+    color: white;
+    padding: 5px;
+    margin-top: 98px;
+}
+.login button:hover{
+    background: red;
+    color: black;
+}
+.submain{
+    background-image:url('pictures/back.jpeg');
+    background-position:center;
+    background-repeat:no-repeat;
+    height:100%;
+    background-size:cover;
+}
+.data{
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+    padding-top: 250px
+
+}
+.subb
+{background-color:blue;
+    height: 550px;
+
+
+}
+.mid{
+    float: left;
+    border: solid 2px green;
+    margin-left: 200px;
+    margin-top: 110px;
+    text-align: center;
+    text-decoration:none;
+    color:red;
+
+}
+.mid a{
+    text-decoration: none;
+    color: #fff;
+}
+.mid img{
+    width:200px;
+    height: 200px;
+    transition:0.3s;
+
+}
+.mid img:hover{
+    transform: scale(1.1);
+    cursor:pointer;
+}
+.footer{
+    background-color: bisque;
+    height: 300px;
+
+}
+.copywrite{
+    float: left;
+    margin-left: 100px;
+    
+    margin-top: 40px;
+
+}
+.copywrite a{
+    display: block;
+    line-height: 30px;
+    text-decoration:none;
+    color:black;
+
+}
+.copywrite a:hover{
+    text-decoration:underline;
+    background:yellow;
+}
+.between{
+    background: green;
+}
+.between a{
+    text-decoration:none;
+    color: white;
+    font-size: 25px;
+}
